@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GestionClientMin2_CG</string>
+    <string name="client_last_name">Nom</string>
+    <string name="add_button_label">Ajouter</string>
+    <string name="gender_women">Femme</string>
+    <string name="gender_man">Homme</string>
+    <string name="client_gender">Sexe</string>
+    <string name="client_age">Age</string>
+    <string name="add_client_message_succes">Client %1$S ajouté !</string>
+
+    <string-array name="levels">
+        <item>Débutant</item>
+        <item>Intermediaire</item>
+        <item>Avancé</item>
+    </string-array>
+
+</resources>
